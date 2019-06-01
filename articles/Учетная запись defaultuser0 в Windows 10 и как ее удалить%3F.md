@@ -50,7 +50,7 @@ _**![defaultuser0](/images/6073879d17c42ffdbcbd942cfcc42ae7.jpg)**_
 
 ![раздел реестра ProfileList](/images/4941666bddf7fe33baa7a2049f4f45cc.jpg)
 
-7. Развернув раздел реестра **ProfileList**, вы увидите подкаталоги, начинающиеся с **S-1-5 .... **Выделите один за другим, и в правой панели, в строке  **_ProfileImagePath_** тип ( REG\_EXPAND\_SZ ) ищите _C:\\**Users\\defaultuser0**_.
+7. Развернув раздел реестра **ProfileList**, вы увидите подкаталоги, начинающиеся с **S-1-5 ....** Выделите один за другим, и в правой панели, в строке  **_ProfileImagePath_** тип ( REG\_EXPAND\_SZ ) ищите _C:\\**Users\\defaultuser0**_.
 
 ![defaultuser0 нужно удалить](/images/7793eb200b9ddeab04615f66c63ab860.jpg)
 
