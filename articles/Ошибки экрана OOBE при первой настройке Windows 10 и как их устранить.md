@@ -50,3 +50,4 @@ msoobe.exe
 [OOBE](/tags/OOBE.md)
 [Windows 10](/tags/Windows%2010.md)
 [VirtualBox](/tags/VirtualBox.md)
+[VMware Workstation](/tags/VMware%20Workstation.md)
