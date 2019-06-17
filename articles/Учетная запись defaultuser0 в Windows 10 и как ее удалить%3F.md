@@ -80,3 +80,4 @@ _**![defaultuser0](/images/6073879d17c42ffdbcbd942cfcc42ae7.jpg)**_
 
 **********
 [Windows 10](/tags/Windows%2010.md)
+[пользователи](/tags/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8.md)
