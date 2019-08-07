@@ -50,3 +50,4 @@ Windows 10 также предлагает сервер OpenSSH, который 
 
 **********
 [Windows 10](/tags/Windows%2010.md)
+[ssh](/tags/ssh.md)
