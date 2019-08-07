@@ -2,7 +2,7 @@
 
  [ ![Как включить и использовать SSH-команды Windows 10](/images/3a7ec90f6d30669b8373c998cf0a3a29.jpg) ](https://guidepc.ru/wp-content/uploads/2017/12/wsi-imageoptim-0DJ3ik6kF6dGZ3lx0eD7.jpg) 
 
- [ M icrosoft объявила](https://blogs.msdn.microsoft.com/powershell/2015/06/03/looking-forward-microsoft-support-for-secure-shell-ssh/) о том, что в 2015 году к Windows будет подключен клиент OpenSSH. Они, наконец, сделали это, и внедрили клиент SSH в обновлении Windows 10 Fall Creators. Теперь Вы можете подключиться к серверу Secure Shell из Windows без установки PuTTY или любого другого стороннего программного обеспечения.
+ [Microsoft объявила](https://blogs.msdn.microsoft.com/powershell/2015/06/03/looking-forward-microsoft-support-for-secure-shell-ssh/) о том, что в 2015 году к Windows будет подключен клиент OpenSSH. Они, наконец, сделали это, и внедрили клиент SSH в обновлении Windows 10 Fall Creators. Теперь Вы можете подключиться к серверу Secure Shell из Windows без установки PuTTY или любого другого стороннего программного обеспечения.
 
 Это все еще бета-функция, поэтому Вам может быть лучше пользоваться PuTTY, пока она не станет стабильной. Согласно отслеживанию ошибок проекта на [GitHub](https://github.com/PowerShell/Win32-OpenSSH/issues/973) , интегрированный клиент SSH поддерживает только ключи ed25519.
 
