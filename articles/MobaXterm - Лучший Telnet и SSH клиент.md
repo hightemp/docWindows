@@ -123,3 +123,6 @@ MobaXterm embedded terminal can highlight syntax or use coloration for keywords,
 MobaXterm Professional Edition gives you access to professional support and to the "Customizer" software. This program allows you to generate customized copies of MobaXterm with your own logo and default settings.
 
  ![MobaXterm Professional Customizer](/images/9f246460986b402cbbe802a77bab9ac1.png)
+
+**********
+[ssh](/tags/ssh.md)
