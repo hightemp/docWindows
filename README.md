@@ -3,6 +3,7 @@
 * [Учетная запись defaultuser0 в Windows 10 и как ее удалить?](/articles/%D0%A3%D1%87%D0%B5%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20defaultuser0%20%D0%B2%20Windows%2010%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B5%D0%B5%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D1%8C%3F.md)
 * [Как включить и использовать SSH-команды Windows 10](/articles/%D0%9A%D0%B0%D0%BA%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20SSH-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20Windows%2010.md)
 * [MobaXterm - Лучший Telnet и SSH клиент](/articles/MobaXterm%20-%20%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9%20Telnet%20%D0%B8%20SSH%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82.md)
+* [Использование Github через прокси (Windows и Unix)](/articles/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Github%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%20%28Windows%20%D0%B8%20Unix%29.md)
 ---
 [OOBE](/tags/OOBE.md)
 [Windows 10](/tags/Windows%2010.md)
