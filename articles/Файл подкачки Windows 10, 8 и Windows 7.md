@@ -130,3 +130,4 @@ Windows также пытается переместить неиспользу�
 **********
 [Windows 10](/tags/Windows%2010.md)
 [Windows 7](/tags/Windows%207.md)
+[Windows 8](/tags/Windows%208.md)
